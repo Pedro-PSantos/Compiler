@@ -1,0 +1,13 @@
+# Teste de funções e controle de fluxo
+def f(int a, float b):
+    if a > b:
+        return a
+    else:
+        return b
+
+print("Resultado:", f(x, y))
+
+# Teste de listas e funções de lista
+int[] arr = [1, 2, 3]
+add(arr, 0, 4)
+print("Tamanho da lista:", size(arr))

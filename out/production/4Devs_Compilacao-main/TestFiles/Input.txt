@@ -1,0 +1,5 @@
+# Teste de declarações e operações
+int x = 2
+float y = 2.0
+x = 3 + 1
+y = x - 0.5
